@@ -1,0 +1,9 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - pandas
+prefix: /home/riley-linux/miniconda3/envs/myenv
