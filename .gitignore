@@ -1,0 +1,27 @@
+# Conda / virtual environments
+env/
+.conda/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter / cache files
+.ipynb_checkpoints/
+*.egg-info/
+*.log
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build or data artifacts
+build/
+dist/
+*.out
+*.csv
+*.dat
+*.h5
+
